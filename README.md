@@ -9,4 +9,8 @@ git status
 
 git branch
 git checkout -b <branchName>
+git merge <branchName>
+
+git pull origin <branchName>
+git push origin <branchName>
 ```
