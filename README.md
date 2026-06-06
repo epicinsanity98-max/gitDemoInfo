@@ -13,4 +13,6 @@ git merge <branchName>
 
 git pull origin <branchName>
 git push origin <branchName>
+
+git log								# 'q' to quit
 ```
